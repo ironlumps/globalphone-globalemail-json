@@ -1,0 +1,13 @@
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\bin\Debug\GlobalCheck.exe.config
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\bin\Debug\GlobalCheck.exe
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\bin\Debug\GlobalCheck.pdb
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\bin\Debug\Newtonsoft.Json.dll
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\bin\Debug\Newtonsoft.Json.xml
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\obj\Debug\GlobalCheck.csprojAssemblyReference.cache
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\obj\Debug\GlobalCheck.Form1.resources
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\obj\Debug\GlobalCheck.Properties.Resources.resources
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\obj\Debug\GlobalCheck.csproj.GenerateResource.cache
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\obj\Debug\GlobalCheck.csproj.CoreCompileInputs.cache
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\obj\Debug\GlobalCheck.csproj.CopyComplete
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\obj\Debug\GlobalCheck.exe
+c:\users\ryan\source\repos\GlobalCheck\GlobalCheck\obj\Debug\GlobalCheck.pdb
